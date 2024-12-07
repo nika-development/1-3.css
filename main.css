@@ -1,0 +1,75 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #000;
+    text-align: center;
+    font-size: 72px;
+}
+
+#y {
+    margin-top: 53px;
+    color: #FF8000;
+    text-align: center;
+}
+
+#main {
+    width: 681px;
+    margin-left: 67px;
+}
+
+h2 {
+    font-size: 40px;
+    color: #D9AE00;
+    margin-top: 63px;
+}
+
+#yo {
+    margin-top: 24px;
+    font-size: 24px;
+    color: #6D81B4;
+
+}
+
+#i {
+    margin-top: 30px;
+}
+
+#ma {
+width: 1007px;
+padding: 64px;
+background-color: #FFCEBE ;
+margin-left: 74px;
+margin-top: 101px;
+}
+
+
+#m {
+    font-size: 40px;
+    text-align: center;
+    color: #F44E50;
+    margin-top: 3px;
+}
+
+#yours {
+    font-size: 20px;
+    color: #8B2B2C;
+    text-align: center;
+}
+
+#self {
+    margin-top: 30px;
+}
+
+#sell {
+    padding: 24px;
+    width: 648;
+}   
+
+#string {
+    text-align: right;
+    color: #4716E4;
+}
