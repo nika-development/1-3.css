@@ -66,10 +66,26 @@ margin-top: 101px;
 
 #sell {
     padding: 24px;
-    width: 648;
+    width: 648px;
+    margin-left: 74px;
 }   
 
 #string {
     text-align: right;
     color: #4716E4;
 }
+
+#sold {
+    margin-top: 24px;
+    padding: 24px;
+    border: 3px solid #FF5DA3;
+    background-color: #FFC1E3;
+}
+
+#seller {
+    font-size: 24px;
+    color: #616161;
+    text-align: right;
+}
+
+
